@@ -1,5 +1,13 @@
 # gatsby-plugin-mdx-peer-repro
 
+```bash
+$ yarn build # will fail
+$ yarn add @mds-js/mdx@1.5.9
+$ yarn build # will succeed
+```
+
+# Auto-generated content
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
