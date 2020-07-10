@@ -1,5 +1,7 @@
 # gatsby-plugin-mdx-peer-repro
 
+Issue: https://github.com/gatsbyjs/gatsby/issues/25691
+
 ```bash
 $ yarn build # will fail
 $ yarn add @mds-js/mdx@1.5.9
